@@ -6,7 +6,7 @@
 
 Este repositório contém um projeto desenvolvido para a disciplina AV1 de Desenvolvimento e Aplicações para Internet. O projeto foi elaborado no Figma e tem como objetivo demonstrar a implementação de uma lista de tarefas interativa.
 
-**[Link para o Projeto Figma]((https://www.figma.com/file/vkdkBgV3uar5idwTgqUpi5/Lista-de-tarefas?type=design&t=2VNIeecueQJ8yc5v-6))**
+**[Link para o Projeto Figma](https://www.figma.com/file/vkdkBgV3uar5idwTgqUpi5/Lista-de-tarefas?type=design&t=2VNIeecueQJ8yc5v-6)**
 
 ### O que usamos
 
